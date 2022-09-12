@@ -1,6 +1,0 @@
-<RequireALL>
-order allow,deny
-deny from 210.213.71.99
-allow from all
-
-</RequireALL>
